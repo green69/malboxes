@@ -110,3 +110,10 @@ Talk to sholmes, he did it.
 === Use VirtualBox's linked_clones Vagrant config
 
 https://www.vagrantup.com/docs/virtualbox/configuration.html
+
+=== Add these software packages for analysis 
+http://www.kahusecurity.com/2016/locky-js-and-url-revealer/ (Help to find obfuscated URLs easily)
+http://www.kahusecurity.com/tools/ (They also have a sandbox tester tools for your vm hardening)
+https://www.crowdstrike.com/resources/crowdinspect/
+https://www.phrozensoft.com/2016/05/winja_the_new_unavoidable_security_software-14
+
